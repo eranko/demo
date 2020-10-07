@@ -1,5 +1,5 @@
 {
-  "employees": [ 1, 2, 3, 4 ,5]
+  "employees": [ 1, 2, 3, 4 ,5],
   "profile": {
     "name": "typicode"
   }
