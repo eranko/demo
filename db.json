@@ -1,25 +1,41 @@
 {
-  "employees": [ 1, 2, 3, 4 ,5, 6],
+  "employees": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
   "employee": [
     {
-      "id" :1,
-      "name": "employee1"
+      "id": 1,
+      "name": "Moshe",
+      "color": "#CC0000",
+      "animal": "Dog"
     },
     {
-      "id" :2,
-      "name": "employee2"
+      "id": 2,
+      "name": "Ruti",
+      "color": "yellow",
+      "animal": "Cat"
     },
     {
-      "id" :3,
-      "name": "employee3"
+      "id": 3,
+      "name": "Yossi",
+      "color": "#009900",
+      "animal": "Mouse"
     },
     {
-      "id" :4,
-      "name": "employee4"
+      "id": 4,
+      "name": "Rachel",
+      "color": "#CC0066",
+      "animal": "Tiger"
     },
     {
-      "id" :5,
-      "name": "employee5"
+      "id": 5,
+      "name": "Avi",
+      "color": "blue",
+      "animal": "Monkey"
     }
-    ]
+  ]
 }
